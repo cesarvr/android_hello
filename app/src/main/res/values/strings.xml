@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Welcome</string>
+    <string name="app_user">User</string>
+    <string name="app_password">Password</string>
+    <string name="app_next">Continue</string>
+    <string name="title_fmt">Registro SAP</string>
+    <string name="key1_action">Logate y Disfruta</string>
+    <string name="key1_summary">Esto es una prueba para ver si nos logamos.</string>
+</resources>
